@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>20CCEF59118FD55D597323741C29507E</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Похождения отважного хомяка Семёна 2: Крутой спуск</title>
+			<author>Triangle</author>
+			<language>ru</language>
+			<firstpublished>2001-04-03</firstpublished>
+			<genre>Юмор</genre>
+			<group>URQ</group>
+			<description>Вы - хомяк по кличке Семён. Если вы прошли игру "Похождения отважного хомяка Семёна 1: Побег", то должны помнить, что вас коварно заточили в клетку, вас сторожил кот, а вы, шуганув кота и взломав клетку гвоздём, всё-таки вышли на свободу. Пока всё.</description>
+			<series>Похождения отважного хомяка Семёна</series>
+			<seriesnumber>2</seriesnumber>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#hamster2</url>
+			<authoremail>triangle@zmail.ru</authoremail>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-09-24</originated>
+		</colophon>
+	</story>
+</ifindex>
